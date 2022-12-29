@@ -1,2 +1,2 @@
 # Hellow-world
-My first repository
+Actually my first repository for a simple calculator in java
